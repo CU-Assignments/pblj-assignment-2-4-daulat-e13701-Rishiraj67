@@ -1,8 +1,0 @@
-src/
-├── model/
-│   └── Student.java
-├── controller/
-│   └── StudentController.java
-├── view/
-│   └── StudentView.java
-└── Main.java
